@@ -14,3 +14,5 @@ To switch between visualizations (velocity, streamlines, and potentials), hit th
 To change the image quality, press the up/down arrow keys.
 To clear the entire scene, press 'c'.
 To show/hide the flow origin points, press 'o'.
+
+Make sure to download and link the OpenGL Mathematics (glm) library before running the project.
